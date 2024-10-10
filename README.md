@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently upskilling in automation tools
 - 👯 I’m looking to collaborate on projects related to testing and automation
 - 🤔 I’m open with suggestions on companies hiring in this field
-- ⚡ Fun fact: ...
--->
+- 
